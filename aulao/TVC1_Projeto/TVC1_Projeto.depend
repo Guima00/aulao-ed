@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1524494022 source:c:\users\saulo\dropbox\ufjf\aulas\2017-1\dcc107 - laboratório de programação ii\edlab2ufjf\tvcs\tvc1_projeto\copadomundo.cpp
+	<iostream>
+	"CopaDoMundo.h"
+	"Equipe.h"
+
+1524453811 
+
+1524494022 c:\users\saulo\dropbox\ufjf\aulas\2017-1\dcc107 - laboratório de programação ii\edlab2ufjf\tvcs\tvc1_projeto\copadomundo.h
+	"Equipe.h"
+
+1524453811 c:\users\saulo\dropbox\ufjf\aulas\2017-1\dcc107 - laboratório de programação ii\edlab2ufjf\tvcs\tvc1_projeto\equipe.h
+	<cstdlib>
+
+1524493926 source:c:\users\saulo\dropbox\ufjf\aulas\2017-1\dcc107 - laboratório de programação ii\edlab2ufjf\tvcs\tvc1_projeto\matrizblocodiagonal.cpp
+	<iostream>
+	"MatrizBlocoDiagonal.h"
+
+1524492753 coDiagonal.h"
+
+1524493926 c:\users\saulo\dropbox\ufjf\aulas\2017-1\dcc107 - laboratório de programação ii\edlab2ufjf\tvcs\tvc1_projeto\matrizblocodiagonal.h
+
+1524492753 source:c:\users\saulo\dropbox\ufjf\aulas\2017-1\dcc107 - laboratório de programação ii\edlab2ufjf\tvcs\tvc1_projeto\main.cpp
+	<iostream>
+	"Equipe.h"
+	"CopaDoMundo.h"
+	"MatrizBlocoDiagonal.h"
+
+1556224691 source:/home/felipe/Desktop/eddddd/TVC1_Projeto/CopaDoMundo.cpp
+	<iostream>
+	"CopaDoMundo.h"
+	"Equipe.h"
+
+1524494022 /home/felipe/Desktop/eddddd/TVC1_Projeto/CopaDoMundo.h
+	"Equipe.h"
+
+1524453811 /home/felipe/Desktop/eddddd/TVC1_Projeto/Equipe.h
+	<cstdlib>
+
+1524506907 source:/home/felipe/Desktop/eddddd/TVC1_Projeto/MatrizBlocoDiagonal.cpp
+	<iostream>
+	"MatrizBlocoDiagonal.h"
+
+1524493926 /home/felipe/Desktop/eddddd/TVC1_Projeto/MatrizBlocoDiagonal.h
+
+1556231313 source:/ice/Downloads/aulao/TVC1_Projeto/CopaDoMundo.cpp
+	<iostream>
+	"CopaDoMundo.h"
+	"Equipe.h"
+
+1524494022 /ice/Downloads/aulao/TVC1_Projeto/CopaDoMundo.h
+	"Equipe.h"
+
+1524453811 /ice/Downloads/aulao/TVC1_Projeto/Equipe.h
+	<cstdlib>
+
+1556230512 source:/ice/Downloads/aulao/TVC1_Projeto/main.cpp
+	<iostream>
+	"Equipe.h"
+	"CopaDoMundo.h"
+	"MatrizBlocoDiagonal.h"
+
+1524493926 /ice/Downloads/aulao/TVC1_Projeto/MatrizBlocoDiagonal.h
+
+1524506907 source:/ice/Downloads/aulao/TVC1_Projeto/MatrizBlocoDiagonal.cpp
+	<iostream>
+	"MatrizBlocoDiagonal.h"
+
